@@ -1,0 +1,9 @@
+{
+  "name": "esperanto-x-system-enabler",
+  "title": "Esperanto X-System Enabler",
+  "id": "jid1-3ohOU7weNCnErA",
+  "description": "Type Esperanto in Duolingo using the X-system digraphs.",
+  "author": "Sean Stangl <sstangl@mozilla.com>",
+  "license": "GPLv3+",
+  "version": "0.1"
+}
